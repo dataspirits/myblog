@@ -1,0 +1,14 @@
+---
+title: test
+author: naruse
+date: '2021-02-10'
+slug: tests
+categories:
+  - R
+tags:
+  - R Markdown
+description: ''
+images:
+  - /2016/10/image.jpg
+---
+
