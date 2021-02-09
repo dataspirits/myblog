@@ -18,6 +18,7 @@ You can embed an R code chunk like this:
 
 ```{r cars}
 library(tidyquant)
+library(tidyverse)
 summary(FANG)
 fit <- lm(dist ~ speed, data = cars)
 fit
